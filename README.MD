@@ -5,7 +5,6 @@
 />
 </p>
 
-<p align="center">
 <a href="https://https://open.spotify.com/episode/5MUQXVdK242QEnHL6RjReq?si=qmkH_7nhQt-wInCOf1Wfew/">
     
 </p>
