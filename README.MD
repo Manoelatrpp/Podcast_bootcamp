@@ -47,6 +47,10 @@ ChatGPT：
 |{REGRAS NEGATIVAS}| •	Não use muitos termos técnicos •	Não ultrapasse 5 minutos de duração  
 
 
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+|  capa  | A cinematic portrait photograph of a 40-year-old witch with dark brown, curly hair and a subtle wispy fringe, wearing a modern, eclectic witch's dress with intricate, swirling patterns in shades of indigo, purple, and silver. Her wire-rimmed glasses perched on the end of her nose, and her pointed black witch's hat sits atop her head, adorned with tiny, glowing gemstones. Her eyes, a deep shade of brown, gaze downward, focused intently on the notebook in front of her, as a soft, warm light from the screen illuminates her smooth, porcelain-like skin. She sits in a futuristic office surrounded by bioluminescent plants with iridescent leaves, bold, ergonomic furniture with neon accents, and a stunning view of a vibrant, futuristic cityscape, complete with flying aircraft and sleek skyscrapers, evoking the sci-fi aesthetic of "The Fifth Element". The overall atmosphere is one of excitement and discovery, as the witch's ecstatic expression and relaxed, slouched posture convey her triumphant satisfaction with her artificial intelligence project.  
+
 
 ## ✨ Como foi feito ?
 
