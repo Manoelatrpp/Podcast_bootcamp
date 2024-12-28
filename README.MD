@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/bruxa_ia.jpeg"
-    width="200"
+    width="300"
 />
 </p>
 
