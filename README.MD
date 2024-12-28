@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Alquimiacast - Episódio Podcast utilizando ferramentas de IA
+    Alquimiacast - Código das Bruxas: Revelando a alquimia entre IA e o mercado de trabalho
 </p>
 
 
