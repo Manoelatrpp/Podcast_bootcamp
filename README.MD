@@ -41,19 +41,10 @@ ChatGPT：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em futuro do mercado de trabalho em função da Inteligência Artificial cujo o nome é " Código das Bruxas: Revelando a alquimia entre IA e o mercado de trabalho" e tem foco em inteligência artificial, com o público alvo de pessoas que já estão atuando no mercado de trabalho hoje.
-o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
-{REGRAS}
-•	no bloco [INTRODUÇÃO] substitua por uma introdução animada e simpática
-•	no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre inteligência artificial
-•	no bloco [CURIOSIDADE 2] substitua por profissões que provavelmente serão mais necessárias no futuro em função da inteligência artificial
-•	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Manoela e esse foi o Alquimiacast dessa semana'
-•	use termos de fácil explicação
-•	O podcast vai ser apresentado somente por uma pessoa, chamada Manoela
-•	O podcast deve ser curto
-{REGRAS NEGATIVAS}
-•	Não use muitos termos técnicos
-•	Não ultrapasse 5 minutos de duração  |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em futuro do mercado de trabalho em função da Inteligência Artificial cujo o nome é " Código das Bruxas: Revelando a alquimia entre IA e o mercado de trabalho" e tem foco em inteligência artificial, com o público alvo de pessoas que já estão atuando no mercado de trabalho hoje. O formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
+{REGRAS} •	no bloco [INTRODUÇÃO] substitua por uma introdução animada e simpática •	no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre inteligência artificial •	no bloco [CURIOSIDADE 2] substitua por profissões que provavelmente serão mais necessárias no futuro em função da inteligência artificial •	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Manoela e esse foi o Alquimiacast dessa semana' •	use termos de fácil explicação •	O podcast vai ser apresentado somente por uma pessoa, chamada Manoela •	O podcast deve ser curto {REGRAS NEGATIVAS} •	Não use muitos termos técnicos •	Não ultrapasse 5 minutos de duração  
+
+|
 
 
 ## ✨ Como foi feito ?
