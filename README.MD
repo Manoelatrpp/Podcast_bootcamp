@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    Preview do Podcast
+    Alquimiacast - Episódio Podcast utilizando ferramentas de IA
 </p>
 
 
