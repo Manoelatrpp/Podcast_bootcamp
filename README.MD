@@ -38,7 +38,7 @@ ChatGPT：
 | {REGRAS} | •	O nome deve ser enxuto, um nome e um subtítulo •	O nome tenha algum trocadilho sobre bruxaria •	O nome deve conter alguma palavra forte que remeta a inteligência artificial 
 |{REGRAS NEGATIVAS}| •	Não quero que utilize nenhuma das palavras nes sa lista: feitiço, mágica
 
- |
+ 
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -46,13 +46,12 @@ ChatGPT：
 | {REGRAS} | •	no bloco [INTRODUÇÃO] substitua por uma introdução animada e simpática •	no bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre inteligência artificial •	no bloco [CURIOSIDADE 2] substitua por profissões que provavelmente serão mais necessárias no futuro em função da inteligência artificial •	no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Manoela e esse foi o Alquimiacast dessa semana' •	use termos de fácil explicação •	O podcast vai ser apresentado somente por uma pessoa, chamada Manoela •	O podcast deve ser curto 
 |{REGRAS NEGATIVAS}| •	Não use muitos termos técnicos •	Não ultrapasse 5 minutos de duração  
 
-|
 
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- LeonardoAI Para gerar capas
+- LeonardoAI Para gerar capa
 - Capcut para tratar aúdio e adicionar sons de fundo
 
